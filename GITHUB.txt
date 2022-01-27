@@ -1,0 +1,27 @@
+GITHUB username and Password
+Welcome to GitHub!
+Let’s begin the adventure
+Enter your emaile.g. monalisa@github.com
+galamsrinivasa@gmail.com
+Create a password
+redima12
+Enter a username
+galamvasu
+Would you like to receive product updates and announcements via email?
+y
+
+===========================
+…or create a new repository on the command line
+echo "# galamvasu" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/galamvasu/galamvasu.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/galamvasu/galamvasu.git
+git branch -M main
+git push -u origin main
+==================
+
